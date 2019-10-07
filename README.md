@@ -1,6 +1,6 @@
 # WeatherPy
 
-Randomly selects at least 500 cities utilizing (CitiPy)[https://github.com/wingchen/citipy]. Using the list of city names we just generated, request (OpenWeatherMapAPI)[https://openweathermap.org/api] for current weather information on cities. Store data into a dataframe and then plot the data onto a scatterplot.
+Randomly selects at least 500 cities utilizing [CitiPy](https://github.com/wingchen/citipy). Using the list of city names we just generated, request [OpenWeatherMapAPI](https://openweathermap.org/api) for current weather information on cities. Store data into a dataframe and then plot the data onto a scatterplot.
 
 ## Hypothesis
 There's a correlation between Latitude with Temperature, Humidity, Cloudiness and Windspeed. For example, as we near the equator, the temperature should be higher.
